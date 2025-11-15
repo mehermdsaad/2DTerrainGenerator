@@ -2,6 +2,8 @@
 
 A 2D terrain generator using Perlin noise in processing. 
 
+![terrain_img](img/ss2024-01-05-003246.jpg)
+
 Features:
 ---------------------------------------------------------------------------------
 - Added waves for better aesthetics.
